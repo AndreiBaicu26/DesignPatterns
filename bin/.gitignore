@@ -1,6 +1,11 @@
-/strategy/
-/singleton/
-/observer/
-/state/
+/builder/
 /command/
-/ActiuneRetragere/
+/factory/
+/observer/
+/prototype/
+/singleton/
+/state/
+/strategy/
+/template/
+/chain/
+/memento/
