@@ -1,11 +1,1 @@
-/builder/
-/command/
-/factory/
-/observer/
-/prototype/
-/singleton/
-/state/
 /strategy/
-/template/
-/chain/
-/memento/
